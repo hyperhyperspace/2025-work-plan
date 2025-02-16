@@ -1,6 +1,6 @@
 ## Plan for NGI Zero Core Grant 2024-06-162
 
-Archived copy of the report at https://www.hyperhyperspace.org/2025-work-plan.html
+Archived copy of the report at https://www.hyperhyperspace.org/work-plan-2025.html
 
 Open an issue if there's something you want to discuss!
 
